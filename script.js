@@ -20,10 +20,10 @@ BUTON.addEventListener("click",()=>{
 
            } else {
             let respuesta = PreciodeVenta(costo,porcentaje);
-            RESULTADO1.innerHTML= "El precio de venta es:  " + respuesta[0] + "00" + " Gs";
+            RESULTADO1.innerHTML= "El precio de venta es:    " + respuesta[0] + "00" + " Gs";
             RESULTADO1.style.display= "block";
 
-            RESULTADO2.innerHTML= "Su ganancia será:  " + respuesta[1] + "00" + " Gs";
+            RESULTADO2.innerHTML= "Su ganancia será:    " + respuesta[1] + "00" + " Gs";
             RESULTADO2.style.display= "block";
 
             ERROR.style.display= "none";

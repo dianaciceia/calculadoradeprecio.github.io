@@ -133,33 +133,18 @@ button:hover span:nth-child(4){
 
 
 #error{
-    color: rgb(226, 214, 214);
+    color: rgb(240, 186, 186);
     font-weight: bold;
     display: none;
-}
-
-.resultado{
-    color: #1dda53;
-    font-weight: bold;
-    font-size: 18px;
-    display: none;
-    text-align: center;
-    
-    
-}
-
-.h1{
-    font-family: sans-serif;
-    color: #a8f7fa;
 }
 
 .imagen{
     width: 250px;
-    height: 250px;
+    height: 200px;
     display: flex;
     position: relative;
-    top: 335px;
-    left: 150px;
+    top: 380px;
+    left: 140px;
  
 
 }
