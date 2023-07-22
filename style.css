@@ -1,9 +1,10 @@
 @import url(https://kinsta.com/es/blog/fuentes-seguras-para-la-web/#7-candara);
 
 body{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/017/642/025/non_2x/economy-and-finance-background-concept-financial-business-statistics-stock-market-candlesticks-and-bar-chart-vector.jpg);
+    background-image: url(https://fondosmil.com/fondo/28255.jpg);
     background-repeat: no-repeat;
     font-family: 'candara', sans-serif;
+    margin: 5px;
     color: #ffffff;
     display: flex;
 
@@ -18,7 +19,7 @@ body{
     max-width: 550px;
     text-align: center;
     inset: 0;
-    margin: auto;
+    margin:auto;
     border-radius: 10px;
     overflow: hidden; 
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.555), 
@@ -27,7 +28,7 @@ body{
 
 #calculador{
     box-sizing: border-box;
-    background: rgb(16, 90, 95);
+    background: rgb(18, 53, 82);
     width: 100%;
     height: 100%;
     float: left;
@@ -48,7 +49,7 @@ input {
 	width: 50%;
     padding: 12px 15px;
     border: none;
-    background-color: #ccf0f3;
+    background-color: #ffffff;
     margin-left: 20px;
     margin-right: 20px;
     
@@ -59,7 +60,7 @@ button {
     padding: 15px 35px;
     border: none;
     outline: none;
-    background: #0a4444;
+    background: #0e1749;
     color: rgb(250, 239, 215);
     cursor: pointer;
     transition: .5s;
@@ -131,12 +132,12 @@ button:hover span:nth-child(4){
 }
 
 .imagen{
-    width: 250px;
-    height: 200px;
+    width: 350px;
+    height: 310px;
     display: flex;
     position: relative;
-    top: 380px;
-    left: 140px;
+    top: 250px;
+    left: 90px;
  
 
 }
